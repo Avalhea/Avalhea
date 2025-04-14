@@ -1,6 +1,6 @@
 # Hi there, I'm Emma/Ava :)
 
-I'm a passionate web developer with experience in both front-end and back-end technologies.
+I'm a passionate fullstack developper.
 
 I specialize in Java, PHP(Symfony) & Javascript (thought I still have much to learn in this area !) <br>
 
